@@ -1,3 +1,2 @@
 # best-repo-ever
-I am Satbindar Chawla
-Sr. Technical architect working in PSL
+I am Satbindar Chawla working in Persistent as full employee
